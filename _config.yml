@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_mine.png"
-  name             : "Donggyu Lee"
+  name             : # "Donggyu Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student in ECE (Electrical and Computer Engineering)"
-  location         : "Seoul, South Korea"
+  bio              : "Undergraduate in ECE"
+  location         : "South Korea"
   employer         : "Seoul National Univ."
   uri              : # URL
   email            : "oh470102@gmail.com" 
